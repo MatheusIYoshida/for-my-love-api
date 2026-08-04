@@ -1,0 +1,6 @@
+@ForMyLove.Api_HostAddress = http://localhost:5035
+
+GET {{ForMyLove.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
