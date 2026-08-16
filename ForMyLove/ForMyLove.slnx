@@ -3,4 +3,5 @@
   <Project Path="ForMyLove.Application/ForMyLove.Application.csproj" />
   <Project Path="ForMyLove.Domain/ForMyLove.Domain.csproj" />
   <Project Path="ForMyLove.Infrastructure/ForMyLove.Infrastructure.csproj" />
+  <Project Path="ForMyLove.Tests/ForMyLove.Tests.csproj" />
 </Solution>
